@@ -11,7 +11,7 @@ WINDOW_SIZE = (400,400) # set up window size
  
 screen = pygame.display.set_mode(WINDOW_SIZE,0,32) # initiate screen
  
-player_image = pygame.image.load('player.png') # just make your own image :)
+player_image = pygame.image.load('picture\hero.png') # just make your own image :)
  
 moving_right = False
 moving_left = False
